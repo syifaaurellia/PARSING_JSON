@@ -36,4 +36,4 @@ implementation("com.google.code.gson:gson:2.10.1")
 ![hasil running](https://github.com/syifaaurellia/PARSING_JSON/assets/115867244/b763562f-a66a-44d6-a349-db61c5d74b76)
 
 ## Link video youtube
---> 
+--> [Klik disini!](https://www.youtube.com/playlist?list=PLjzOeUA5F3wuNMkju1h9E6sT09Kq5ZxaV)
